@@ -1,0 +1,457 @@
+20210430-023557, fd=12 -::ffff:192.168.0.21-: new hp=0
+20210430-023557, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=240 HTTP/1.1
+20210430-023557, fd=13 -::ffff:192.168.0.21-: new hp=1
+20210430-023558, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023559, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023600, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023601, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023602, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023602, fd=13 -::ffff:192.168.0.21-: Disconnect on socket ((nil))
+20210430-023602, fd=13 -::ffff:192.168.0.21-: closing http connection hp=1
+20210430-023603, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023604, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023605, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023606, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023608, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210430-023609, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023610, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023611, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023612, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023613, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023614, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023615, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023616, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023617, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210430-023618, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023619, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023620, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023621, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023622, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023623, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023624, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023625, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023626, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /index.html HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index_eng.html
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /tmp/bandinfo.js HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=13 -::ffff:192.168.0.21-: new hp=1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /websdr-base.js HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /HamHomer.png HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=13 -::ffff:192.168.0.21-: http request GET /edgelower.png HTTP/1.1
+20210430-023627, fd=13 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=13 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /edgeupper.png HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=14 -::ffff:192.168.0.21-: new hp=2
+20210430-023627, fd=14 -::ffff:192.168.0.21-: http request GET /carrier.png HTTP/1.1
+20210430-023627, fd=14 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=14 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=15 -::ffff:192.168.0.21-: new hp=3
+20210430-023627, fd=15 -::ffff:192.168.0.21-: http request GET /smeter1.png HTTP/1.1
+20210430-023627, fd=15 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=15 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=16 -::ffff:192.168.0.21-: new hp=4
+20210430-023627, fd=16 -::ffff:192.168.0.21-: http request GET /debian-bouton.png HTTP/1.1
+20210430-023627, fd=16 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=16 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=12 -::ffff:192.168.0.21-: http request GET /favicon.ico HTTP/1.1
+20210430-023627, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023627, fd=12 -::ffff:192.168.0.21-: sending 404 for file not found: pub2/favicon.ico
+20210430-023627, fd=12 -::ffff:192.168.0.21-: Disconnect on socket ((nil))
+20210430-023627, fd=12 -::ffff:192.168.0.21-: closing http connection hp=0
+20210430-023628, fd=16 -::ffff:192.168.0.21-: http request GET /tmp/1619750157-b0z0i0.png HTTP/1.1
+20210430-023628, fd=16 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=16 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=15 -::ffff:192.168.0.21-: http request GET /tmp/1619750157-b1z0i0.png HTTP/1.1
+20210430-023628, fd=15 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=15 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=13 -::ffff:192.168.0.21-: http request GET /tmp/1619750157-b2z0i0.png HTTP/1.1
+20210430-023628, fd=13 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=13 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=14 -::ffff:192.168.0.21-: http request GET /tmp/1619750157-b3z0i0.png HTTP/1.1
+20210430-023628, fd=14 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=14 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=12 -::ffff:192.168.0.21-: new hp=0
+20210430-023628, fd=17 -::ffff:192.168.0.21-: new hp=5
+20210430-023628, fd=12 -::ffff:192.168.0.21-: http request GET /tmp/1619750157-b4z0i0.png HTTP/1.1
+20210430-023628, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=17 -::ffff:192.168.0.21-: http request GET /websdr-waterfall.js HTTP/1.1
+20210430-023628, fd=17 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=17 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=17 -::ffff:192.168.0.21-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210430-023628, fd=16 -::ffff:192.168.0.21-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210430-023628, fd=15 -::ffff:192.168.0.21-: http request GET /~~fetchdx?min=6588&max=7612 HTTP/1.1
+20210430-023628, fd=14 -::ffff:192.168.0.21-: http request GET /~~fetchdx?min=143976&max=146024 HTTP/1.1
+20210430-023628, fd=13 -::ffff:192.168.0.21-: http request GET /~~fetchdx?min=145976&max=148024 HTTP/1.1
+20210430-023628, fd=12 -::ffff:192.168.0.21-: http request GET /websdr-sound.js HTTP/1.1
+20210430-023628, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=18 -::ffff:192.168.0.21-: new hp=6
+20210430-023628, fd=18 -::ffff:192.168.0.21-: http request GET /~~waterstream0?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210430-023628, fd=18 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=18 -::ffff:192.168.0.21-: assigned waterstream 0
+20210430-023628, fd=19 -::ffff:192.168.0.21-: new hp=7
+20210430-023628, fd=19 -::ffff:192.168.0.21-: http request GET /~~waterstream1?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210430-023628, fd=19 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=19 -::ffff:192.168.0.21-: assigned waterstream 1
+20210430-023628, fd=20 -::ffff:192.168.0.21-: new hp=8
+20210430-023628, fd=20 -::ffff:192.168.0.21-: http request GET /~~waterstream2?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210430-023628, fd=20 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=20 -::ffff:192.168.0.21-: assigned waterstream 2
+20210430-023628, fd=21 -::ffff:192.168.0.21-: new hp=9
+20210430-023628, fd=21 -::ffff:192.168.0.21-: http request GET /~~waterstream3?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210430-023628, fd=21 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=21 -::ffff:192.168.0.21-: assigned waterstream 3
+20210430-023628, fd=22 -::ffff:192.168.0.21-: new hp=10
+20210430-023628, fd=22 -::ffff:192.168.0.21-: http request GET /~~waterstream4?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210430-023628, fd=22 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=22 -::ffff:192.168.0.21-: assigned waterstream 4
+20210430-023628, fd=23 -::ffff:192.168.0.21-: new hp=11
+20210430-023628, fd=23 -::ffff:192.168.0.21-: http request GET /~~stream?v=11 HTTP/1.1
+20210430-023628, fd=23 -::ffff:192.168.0.21-: changing to WebSocket
+20210430-023628, fd=23 -::ffff:192.168.0.21-: assigned stream 0
+20210430-023628, fd=18 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?slow=4
+20210430-023628, fd=19 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?slow=4
+20210430-023628, fd=20 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?slow=4
+20210430-023628, fd=20 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?band=2&zoom=0&start=0
+20210430-023628, fd=21 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?slow=4
+20210430-023628, fd=21 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?band=3&zoom=0&start=0
+20210430-023628, fd=22 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?slow=4
+20210430-023628, fd=22 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?band=4&zoom=0&start=0
+20210430-023628, fd=18 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210430-023628, fd=19 -::ffff:192.168.0.21-: websocket request GET /~~waterparam?band=1&zoom=0&start=0
+20210430-023628, fd=12 -::ffff:192.168.0.21-: http request GET /scaleblack.png HTTP/1.1
+20210430-023628, fd=12 -::ffff:192.168.0.21-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+20210430-023628, fd=12 -::ffff:192.168.0.21-: Referer: http://websdr:8901/index.html
+20210430-023628, fd=23 -::ffff:192.168.0.21-: websocket request GET /~~param?f=146930&band=4&lo=-6&hi=6&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210430-023628, fd=23 -::ffff:192.168.0.21-: websocket request GET /~~param?f=146930&band=4&lo=-6&hi=6&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210430-023628, fd=23 -::ffff:192.168.0.21-: websocket request GET /~~param?mute=0
+20210430-023628, fd=23 -::ffff:192.168.0.21-: websocket request GET /~~param?squelch=0
+20210430-023628, fd=23 -::ffff:192.168.0.21-: websocket request GET /~~param?autonotch=0
+20210430-023629, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=2 HTTP/1.1
+20210430-023630, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023631, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023632, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023633, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023634, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023635, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023636, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023637, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210430-023638, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023639, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023640, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023641, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023642, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023643, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023644, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023645, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023646, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023647, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210430-023649, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023650, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023651, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023652, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023653, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023654, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023655, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023656, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023657, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210430-023658, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023659, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023700, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023701, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023702, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023703, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023704, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023705, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023706, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023707, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210430-023708, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023709, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023710, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023711, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023712, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023713, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023714, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023715, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023717, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210430-023718, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023719, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023720, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023721, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023722, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023723, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023724, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023725, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023726, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023727, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210430-023728, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023729, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023730, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023731, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023732, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023733, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023734, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023735, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023736, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023737, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210430-023738, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023739, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023740, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023742, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023743, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023744, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023745, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023746, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023747, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210430-023748, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023749, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023750, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023751, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023752, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023753, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023754, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023755, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023756, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023757, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210430-023758, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023759, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023800, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023801, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023802, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023803, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023804, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023805, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023806, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023806, fd=13 -::ffff:192.168.0.21-: http connection inactive for 98 seconds
+20210430-023806, fd=13 -::ffff:192.168.0.21-: closing http connection hp=1
+20210430-023806, fd=14 -::ffff:192.168.0.21-: http connection inactive for 98 seconds
+20210430-023806, fd=14 -::ffff:192.168.0.21-: closing http connection hp=2
+20210430-023806, fd=15 -::ffff:192.168.0.21-: http connection inactive for 98 seconds
+20210430-023806, fd=15 -::ffff:192.168.0.21-: closing http connection hp=3
+20210430-023806, fd=16 -::ffff:192.168.0.21-: http connection inactive for 98 seconds
+20210430-023806, fd=16 -::ffff:192.168.0.21-: closing http connection hp=4
+20210430-023806, fd=17 -::ffff:192.168.0.21-: http connection inactive for 98 seconds
+20210430-023806, fd=17 -::ffff:192.168.0.21-: closing http connection hp=5
+20210430-023807, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210430-023808, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023809, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023810, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023812, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023813, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023814, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023815, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023816, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023817, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210430-023818, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023819, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023820, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023821, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023822, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023823, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023824, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023825, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023826, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023827, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210430-023828, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023829, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023830, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023831, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023832, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023833, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023834, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023835, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023836, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023837, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210430-023838, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023840, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023841, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023842, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023843, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023844, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023845, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023846, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023847, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210430-023848, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023849, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023850, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023851, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023852, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023853, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023854, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023855, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023856, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023857, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210430-023858, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023859, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023900, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023901, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023902, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023903, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023904, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023905, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023906, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023907, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210430-023909, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023910, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023911, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023912, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023913, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023914, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023915, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023916, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023917, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210430-023918, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023919, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023920, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023921, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023922, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023923, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023924, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023925, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023926, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023927, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210430-023928, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023929, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023930, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023931, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023932, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023933, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023934, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023936, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023937, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210430-023938, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023939, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023940, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023941, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023942, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023943, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023944, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023945, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023946, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023947, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210430-023948, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023949, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023950, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023951, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023952, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023953, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023954, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023955, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023956, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023957, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210430-023958, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-023959, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024001, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024002, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024003, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024004, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024005, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024006, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024007, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210430-024008, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024009, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024010, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024011, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024012, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024013, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024014, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024015, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024016, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024017, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210430-024018, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024019, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024020, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024021, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024022, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024023, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024024, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024025, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024026, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024028, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210430-024029, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024030, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024031, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024032, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024033, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024034, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024035, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024036, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024037, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210430-024038, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024039, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024040, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024041, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024042, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024043, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024044, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024045, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024046, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024047, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210430-024048, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024049, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024050, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024051, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024052, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024054, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024055, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024056, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024057, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210430-024058, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024059, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024100, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024101, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024102, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024103, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024104, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024105, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024106, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024107, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210430-024108, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024109, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024110, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024111, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024112, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024113, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024114, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024115, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024116, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024117, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210430-024118, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024119, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024120, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024121, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024122, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024123, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024125, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024126, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024127, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210430-024128, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024129, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024130, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024131, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024132, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024133, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024134, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024135, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024136, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024137, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210430-024138, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024139, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024140, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024141, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024142, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024143, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024144, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024145, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210430-024146, fd=12 -::ffff:192.168.0.21-: http request GET /~~othersjj?chseq=72 HTTP/1.1

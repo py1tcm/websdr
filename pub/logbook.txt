@@ -1,0 +1,68 @@
+WebSDR logbook - note that entries can be made by anyone so correctness is not guaranteed
+--------------------------------------------------------------------------------------------------
+date     UTC    freq   call           comments                        dxcc country        heard by
+--------------------------------------------------------------------------------------------------
+20190717 19:06  147440.0 PU1NCO                                      ! PY  Brazil           PU1VOG HENRIQUE
+20190727 20:44  146910.0 pu2oci                                        PY  Brazil           ::ffff:191.7.144.40
+20190814 22:17  145470.0 PY1IP                                         PY  Brazil           ::ffff:191.162.164.224
+20190826 19:21  145387.5 py1mad                                        PY  Brazil           PY1MAD
+20190828 21:37  147300.0 pu1vpe                                        PY  Brazil           valmir  pereira de souza pu1vpe
+20190901 04:56  147440.0 Py1 Lk     Chegando forte no sdr de pinheir                        ::ffff:189.105.154.243
+20191002 16:24  145350.0 PU1WBL                                        PY  Brazil           FAOA
+20191002 16:24  145350.0 PU1LGR                                        PY  Brazil           FAOA
+20191004 14:20  145350.0 PY1MAC     É A MELHOR DO RIO !               PY  Brazil           pu1pyk/C.Frio
+20191008 12:52  145350.0 PY1MAC                                        PY  Brazil           pu1pyk/ c.frio
+20191008 12:53  145350.0 PY1EEL                                        PY  Brazil           pu1pyk/ c.frio
+20191008 15:46  145350.0 py1mac                                        PY  Brazil           pu1pyk/ c.frio
+20191009 14:54  145350.0 py1mac  / GRAN                                                     pu1pyk/ c.frio
+20191010 12:51  145350.0 145.350    Muito Bom Parabéns                                     PU1-PZP Cacá
+20191010 13:25  145350.0 145.350    o repetidor esta chegando muito                         PU1-PZP Cacá
+20191010 13:25  145350.0 145.350    GRANF é GRANF                                          PU1-PZP Cacá
+20191010 13:26  145350.0 145.350    a numero 1 do seu dial                                  PU1-PZP Cacá
+20191010 13:26  145350.0 PU1-PZP    SHOW                                                    PU1-PZP Cacá
+20191011 12:27  145934.4 EO88                                        ! UR  Ukraine          G4VRC
+20191012 12:44  145349.3 pu1jcd                                        PY  Brazil           ::ffff:179.107.130.119
+20191012 23:03  145350.0 py1mac                                        PY  Brazil           ::ffff:177.222.180.211
+20191014 20:36  145270.0 PY1EEL                                        PY  Brazil           pu1-pyk Rezende
+20191017 10:32  145825.0 UO11       Uosat2-Oscar11 satellite         ! UN  Kazakhstan       G4VRC
+20191017 13:53  145270.0 PY1EEL     Rep. Saquarema - RJ                PY  Brazil           ::ffff:186.219.37.90
+20191019 15:12  145390.0 Py1tcm     Ouvi um cw agora                   PY  Brazil           PU1VRG
+20191023 01:04  146890.0 py1dmp     niteroi rj                         PY  Brazil           PY1DMP BR,RJ,Rio de Janeiro
+20191024 23:16  146500.0 PY145SWL                                      PY  Brazil           BR,RJ,Nova Friburgo
+20191101 01:40  146464.0 146.464    OUÇO AUDIO NÃO DA INDICATIVO                          PU1VMA-  BR,RJ,Barra Mansa
+20191116 21:23  146000.0 146000                                                             pu1tvp BR,RJ,Volta Redonda
+20191228 13:12  145350.0 PU1KZB     CABO FRIO - RJ                     PY  Brazil           BR,RJ,Arraial do Cabo
+20200222 01:11  145390.0 PY1AAF                                        PY  Brazil           PU1SSY BR,MG,Barbacena
+20200222 01:18  145387.1 PY1AAF                                        PY  Brazil           PU1SSY BR,MG,Barbacena
+20200224 11:11  145174.0 pu1jcd                                        PY  Brazil           BR,RJ,Volta Redonda
+20200304 17:00  146890.0 py1jcd                                        PY  Brazil           BR,RJ,Volta Redonda
+20200319 20:54  145390.0 pu1vit                                        PY  Brazil           PY2VOA BR,SP,Guaratingueta
+20200319 21:02  145390.0 PU1JBS     Sinal forte                        PY  Brazil           PY2VOA BR,SP,Guaratingueta
+20200319 21:03  145390.0 PU1JBS     Sinal forte                        PY  Brazil           PY2VOA BR,SP,Guaratingueta
+20200405 23:56  146888.0 hj6jja                                                             CO,DC,Bogotá
+20200422 23:56  146500.0 Py1vrd     Rptd volta redonda                 PY  Brazil           BR,RJ,Volta Redonda
+20200423 00:51  146500.0 Py1vrd     Repetidora de volta redonda        PY  Brazil           BR,RJ,Volta Redonda
+20200423 01:22  146930.0 Pu1mei     Freq 146.500 ponta ponta barra d   PY  Brazil           BR,RJ,Volta Redonda
+20200423 01:24  146930.0 146.500 mhz  Ponta ponta de barra do pirai                         BR,RJ,Volta Redonda
+20200423 01:37  146500.0 Pu1mei, pu1yyz Freq: 146.500 Ponta ponta de                        BR,RJ,Volta Redonda
+20200423 01:41  146500.0 Freq: 146.500m Ponta ponta barra do pirai a                        BR,RJ,Volta Redonda
+20200427 23:40  146930.0 Ponta ponta  Freq 146.500 mhz barra do pira                        BR,RJ,Volta Redonda
+20200427 23:41  146930.0 Agora as 20:42 Horario de brasilia. Rj                             BR,RJ,Volta Redonda
+20200427 23:42  146930.0 Ponta ponta de                                                     BR,RJ,Volta Redonda
+20200427 23:43  146930.0 146.500    Barra do pirai                                          BR,RJ,Volta Redonda
+20200427 23:44  146930.0 Barra do pirai 146.500 bp                                          BR,RJ,Volta Redonda
+20200501 14:18  145350.1 PU1SOO     HELIO LINS                                              BR,RJ,Rio de Janeiro
+20200502 15:18  145350.0 Pu1soo Helio                                                       BR,RJ,Rio de Janeiro
+20200505 01:27  146502.0 pu1tcp                                        PY  Brazil           Sem localização
+20200507 22:52  146500.0 pp 146500  146500barra do pirai                                    BR,RJ,Volta Redonda
+20200507 22:53  146500.0 todos prefixad ponta ponta barra do pirai                          BR,RJ,Volta Redonda
+20200510 23:13  146930.0 146.500    Boa noite pu1jpy                                        BR,RJ,Volta Redonda
+20200524 00:13  146930.0 Qap146.500 Barra do pirai                                          BR,RJ,Volta Redonda
+20200531 11:52  145390.0 146500                                                             BR,RJ,Petrópolis
+20200610 03:15  145430.0 PY1SGP                                        PY  Brazil           BR,RJ,Rio de Janeiro
+20200611 20:12  147439.5 lu7akk                                      ! LU  Argentina        AR,C,Buenos Aires
+20200615 00:29  146890.0 PU1PBR                                        PY  Brazil           BR,RJ,Rio de Janeiro
+20200616 21:10  145242.0 py1eme                                        PY  Brazil           BR,RJ,Resende
+20200619 02:18  145350.0 pu1mha     Otimo SDR. 73                      PY  Brazil           BR,RJ,Rio de Janeiro
+20200619 14:40  147150.0 A          A                                                       BR,MG,Itajuba
+20200619 23:10  147150.0 Pu1soo rio de  QAP 146.500                                         pu1soo

@@ -1,0 +1,418 @@
+<div style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); z-index:1000; font-size: 18px;" id="audiostartbutton">
+  <div class="ctl" style="margin: 50px;padding: 20px;">
+    Audio Start:
+    <button onclick="soundapplet.audioresume()" style="font-size: 18px;padding: 10px 10px;margin-left: 15px;"><i class="fas fa-play"></i></button>
+  </div>
+</div>
+
+<form name="usernameform" action="#">
+<script type="text/javascript">
+document_username();
+</script>
+<input type="text" size=1 name="dummytopreventsubmissiononenter" style="display:none" onclick="">
+<span style="padding-left: 2%;">Your session: </span><class id="conTime"> 0 hrs 0 min 0 sec</class>
+<span style="padding-left: 2%;">Idle timeout: </span><class id="idleTime">∞ min</class>
+</form>
+
+<div id="dummyforie"></div>
+<a href="m_eng.html">
+<div id="mobilewarning" class="warning" style="min-height:45px; text-align:center; vertical-align:middle;">
+It seems you are using a mobile device; click here to switch to the mobile version of this site.
+</div>
+</a>
+<div id="javawarning" class="warning">
+It seems Java is not installed or disabled on your computer. You need to install and/or enable it for this website to work properly.
+<br>Since Java version 7u51, Java needs to be enabled separately for each website; see <a href=http://websdr.org/java.html>http://websdr.org/java.html</a> for instructions.
+</div>
+<div id="html5warning" class="warning">
+Your browser does not seem to support HTML5 WebAudio; please try a recent version of Firefox, Chrome, Opera or Safari; or switch to Java.
+</div>
+<hr>
+
+<form name="viewform" action="#">
+<div class="ctl">
+  <b>View:</b>
+  <span id="viewformbuttons"></span>
+</div>
+<div class="ctl">
+  <b>keyboard:</b>
+  <input type="checkbox" name="allowkeys" value="">
+  <div class="keylist">
+  <tt><b>j k &larr; &rarr;</b></tt>: freq down/up (+shift/ctrl/alt faster)
+  <br>
+  <tt><b>u l c a f</b></tt>: USB, LSB, CW, AM, FM
+  <br>
+  <tt><b>z Z</b></tt>: center/zoom waterfall 
+  <br>
+  <tt><b>g</b></tt>: enter frequency
+  </div>
+</div>
+</form>
+
+<form name="html5choiceform" action="#">
+<div class="ctl">
+<b>Waterfall:</b>&nbsp;<span id="html5-waterfall-status">HTML5</span>
+&nbsp;&nbsp;
+<b>Audio:</b>&nbsp;<span id="html5-sound-status">HTML5</span>
+&nbsp;&nbsp;
+<!-- <input class="sound-start" id="autoplay-start" type="button" value="Audio start" onclick="start_audio();"> -->
+<div id=html5choice>
+</div>
+</div>
+<br style="clear:both">
+</form>
+
+<div style="position:relative" class=clear>
+<div id="test">
+</div>
+
+<div id="waterfalls" class="text-darkgrey f33">
+   <center>
+   <br>
+   <div class="fullcenter"><i class="fas fa-spinner fa-spin fa-fw"></i> Loading Waterfall, wait...</div>
+   <br>
+   <br>
+   </center>
+</div>
+<div class="hideblind">
+ <img src="edgelower.png" title="drag to change filter" id="edgelower" onmousedown="mousedownlower(event)" class="scaleabs" alt="">
+ <img src="edgeupper.png" title="drag to change filter" id="edgeupper" onmousedown="mousedownupper(event)" class="scaleabs" alt="">
+ <div id="yellowbara">
+  <div id="yellowbar" title="drag to tune" class="scaleabs" style="position:absolute;width:100px;height:18px;background-color:transparent" onmousedown="mousedownpassband(event)">
+   <div id="yellowbarr" class="scaleabs" style="position:relative;left:0px;">
+    <div class="scaleabs" style="position:absolute;width:0px;height:0px;"></div>
+   </div>
+  </div>
+  <img src="carrier.png" title="drag to tune" id="carrier" onmousedown="mousedownpassband(event)" class="scaleabs" style="z-index:2" alt="">
+ </div>
+</div>
+</div>
+
+<div class="ctl">
+
+<form name="freqform" action="#" onsubmit="setfreqif(this.frequency.value); return false;">
+    <script type="text/javascript"> document_bandbuttons(); </script>
+<hr>
+
+  <b>Frequency:</b>
+  <span class="showblind">
+  <input id="freqstepm3" type="button" value="<<<" onclick="freqstep(-3)">
+  <input type="button" value="<<" onclick="freqstep(-2)">
+  <input type="button" value="<" onclick="freqstep(-1)">
+  </span>
+  <input type="text" size=10 name="frequency" onkeyup="setfreqif_fut(this.value);"> KHz &nbsp;&nbsp; <b>VFO:</b> &nbsp;
+  <input type="submit" style="position:absolute; left:-999px" value="submit">  <!-- IE sillyness; other browsers are fine with visibility:none -->
+  <span class="hideblind">
+  <td>
+     <span title="Toggle between two frequencies"><input type="button" style="font-size:15px; /*font-weight: bold;*/ width:50px;" value="A/B" onclick="vfos_toggle()"></span>
+     <span title="Set toggle frequencies equal"><input type="button" style="font-size:15px; /*font-weight: bold;*/ width:50px;" value="A=B" onclick="vfos_equal()"></span>
+  </td>
+<br>
+<br>
+<table align=center>
+  <td><b>Tuning:</b> &nbsp;
+  <td><input title="Frequency down" type="button" value="<<<" onclick="freqstep(-3)"></td>
+  <td><input title="Frequency down" type="button" value="<<" onclick="freqstep(-2)"></td>
+  <td><input title="Frequency down" type="button" value="<" onclick="freqstep(-1)"></td>
+  </span>
+  <td><input title="Beat zero" type="button" value=">|<" onclick="freqstep(9)"></td>
+  <td><input title="Frequency up" type="button" value=">" onclick="freqstep(+1)"></td>
+  <td><input title="Frequency up" type="button" value=">>" onclick="freqstep(+2)"></td>
+  <td><input title="Frequency up" type="button" value=">>>" onclick="freqstep(+3)"></td>
+  <div class="hideblind">
+</table>
+  <span style="font-size:65%">Or tune by clicking/dragging/scrollwheel on the frequency scale.</span>
+  <br>
+  <hr>
+    <table align=center>
+    <tr>
+    <td><b>Mode:</b>&nbsp;&nbsp;<input title="Continuous wave" type="button" id="btn-CW" style="width:65px;" value="CW" onclick="set_mode('cw');"></td>
+    <td><input title="Lower side band" type="button" id="btn-LSB" style="width:65px;" value="LSB" onclick="set_mode('lsb');"></td>
+    <td><input title="Upper side band"type="button" id="btn-USB" style="width:65px;" value="USB" onclick="set_mode('usb');"></td>
+    <td><input title="Amplitude modulation" type="button" id="btn-AM" style="width:65px;" value="AM" onclick="set_mode('am');"></td>
+    <td><input title="Frequency modulation" type="button" id="btn-FM" style="width:65px;" value="FM" onclick="set_mode('fm');"></td>
+    </tr>
+  </table>
+<hr>
+  <b>Bandwidth: </b>
+  <br>
+  <b><span id="numericalbandwidth6">?</span></b> kHz @ -6dB;
+  <b><span id="numericalbandwidth60">?</span></b> kHz @ -60dB.
+  <br>
+<table align=center>
+  <td id="lsbpresets" style="display:table-row;">
+    <table>
+      <tr>
+	<td><input type="button" title="decrease bandwidth" style="width:70px" value=">> | <<" onclick="lo+=0.0525; hi-=0.0525; updbw();"></td>
+    <td><input type="button" title="Bandwidth preset : 200 Hz - 2.5 kHz (LSB)" value="2.3 kHz" onclick="setmf('lsb', -2.59, -0.29);  rememberpreset();" style="width: 58px;"></td>
+    <td><input type="button" title="Bandwidth preset : 90 Hz - 2.6 kHz (LSB)" value="2.7 kHz" onclick="setmf('lsb', -2.79, -0.09);  rememberpreset();" style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 100 Hz - 3.1 kHz (LSB)" value="3 kHz" onclick="setmf('lsb', -3.1, -0.1);  rememberpreset();" style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 50 Hz - 3.5 kHz (LSB)" value="3.5 kHz" onclick="setmf('lsb', -3.55, -0.05);  rememberpreset();" style="width: 58px;"></td>
+	<td><input type="button" title="increase bandwitdh" style="width:70px" value="<< | >>"   onclick="lo-=0.0525; hi+=0.0525; updbw();"></td>
+      </tr>
+    </center> 
+    </table>
+    </td>
+  <td id="usbpresets" style="display:none;">
+    <table>
+      <tr>
+	<td><input type="button" title="decrease bandwidth" style="width:70px;" value=">> | <<" onclick="lo+=0.0525; hi-=0.0525; updbw();"></td>
+    <td><input type="button" title="Bandwidth preset : 200 Hz - 2.5 kHz (USB)" value="2.3 kHz" onclick="setmf('usb', 0.29, 2.59);  rememberpreset();" style="width: 58px;"></td>
+    <td><input type="button" title="Bandwidth preset : 90 Hz - 2.75 kHz (USB)" value="2.7 kHz" onclick="setmf('usb', 0.09, 2.79);  rememberpreset();" style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 100 Hz - 3.1 kHz (USB)" value="3 kHz" onclick="setmf('usb', 0.1, 3.1); rememberpreset();" style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 50 Hz - 3.55 kHz (USB)" value="3.5 kHz" onclick="setmf('usb', 0.05, 3.55); rememberpreset();" style="width: 58px;"></td>	
+	<td><input type="button" title="increase bandwitdh" style="width:70px;" value="<< | >>"   onclick="lo-=0.0525; hi+=0.0525; updbw();"></td>
+    
+    </table>
+  </td>
+  <td id="ampresets" style="display:none;">
+    <table>
+      <tr>
+	<td><input type="button" title="decrease bandwidth" style="width:70px;" value=">> | <<" onclick="lo+=0.0525; hi-=0.0525; updbw();"></td>
+    <td><input type="button" title="Bandwidth preset : 5 kHz (AM)" value="5 kHz" onclick="setmf('am', -2.46, 2.45); rememberpreset();"style="width: 58px;"></td>
+    <td><input type="button" title="Bandwidth preset : 7 kHz (AM)" value="7 kHz" onclick="setmf('am', -3.46, 3.45);rememberpreset();"style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 10 kHz (AM)" value="10 kHz" onclick="setmf('am', -4.96, 4.95); rememberpreset();"style="width: 58px;"></td>
+	<td><input type="button" title="Bandwidth preset : 12 kHz (AM)" value="12 kHz" onclick="setmf('am', -5.96,  5.95); rememberpreset();"style="width: 58px;"></td>
+	<td><input type="button" title="increase bandwitdh" style="width:70px;" value="<< | >>"   onclick="lo-=0.0525; hi+=0.0525; updbw();"></td>
+      </tr>
+    </table>
+  </td>
+  <td id="fmpresets" style="display:none;">
+    <table>
+      <tr>
+      <td><input type="button" title="decrease bandwidth" style="width:70px;" value=">> | <<" onclick="lo+=0.0525; hi-=0.0525; updbw();"></td>
+      <td><input type="button" title="Bandwidth preset : 7 kHz (FM)" value="7 kHz" onclick="setmf('fm', -3.50, 3.50); rememberpreset();"style="width: 58px;"></td>
+      <td><input type="button" title="Bandwidth preset : 10 kHz (FM)" value="10 kHz" onclick="setmf('fm', -5.00, 5.00); rememberpreset();"style="width: 58px;"></td>
+      <td><input type="button" title="Bandwidth preset : 12 kHz (FM)" value="12 kHz" onclick="setmf('fm', -6.25, 6.25); rememberpreset();"style="width: 58px;"></td>
+      <td><input type="button" title="Bandwidth preset : 15 kHz (FM)" value="15 kHz" onclick="setmf('fm', -7.56, 7.55); rememberpreset();"style="width: 58px;"></td>
+      <td><input type="button" title="increase bandwitdh" style="width:70px;" value="<< | >>"   onclick="lo-=0.0525; hi+=0.0525; updbw();"></td>
+      </tr>
+    </table>
+  </td>
+  <td id="cwpresets" style="display:none;">
+    <table>
+      <tr>
+	<td><input type="button" title="decrease bandwidth" style="width:70px;" value=">> | <<" onclick="lo+=0.0525; hi-=0.0525; updbw();"></td>
+        <td><input type="button" title="Bandwidth preset : 700 Hz - 800 Hz (CW)" value="100 Hz" onclick="setmf('cw', -0.76, -0.75); rememberpreset(); "style="width: 58px;"></td>
+        <td><input type="button" title="Bandwidth preset : 650 Hz - 850 Hz (CW)" value="200 Hz" onclick="setmf('cw', -0.8, -0.69); rememberpreset(); "style="width: 58px;"></td>
+        <td><input type="button" title="Bandwidth preset : 600 Hz - 900 Hz (CW)" value="300 Hz" onclick="setmf('cw', -0.85, -0.64); rememberpreset();"style="width: 58px;"></td>
+        <td><input type="button" title="Bandwidth preset : 550 Hz - 950 Hz (CW)" value="400 Hz" onclick="setmf('cw', -0.9, -0.59);  rememberpreset();"style="width: 58px;"></td>
+        <td><input type="button" title="increase bandwitdh" style="width:70px;" value="<< | >>"   onclick="lo-=0.0525; hi+=0.0525; updbw();"></td>
+      </tr>
+    </table>
+   </td>
+  </table>
+  <span class="hideblind">
+  <span style="font-size:65%">Or drag the passband edges on the frequency scale.</span>
+  </span>
+  <hr>
+  <b>Memories:</b> 
+  <div id="memories" class="memories"></div> </div>
+  </span>
+</div>
+</form>
+
+<div class="hideblind">
+<div class="ctl">
+  <b>Waterfall view:</b>
+  <br>
+  <table>
+    <tr>
+    <td>
+    <span title="zoom out one step"><input type="button" value="zoom out" onclick="wfset(1);"></span>
+    <span title="zoom in one step"><input type="button" value="zoom in" onclick="wfset(0);"></span>
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <span title="view entire frequency range of this receiver"><input type="button" value="max out" onclick="wfset(4);"></span>
+    <span title="zoom in as deep as possible"><input type="button" value="max in" onclick="wfset(2);"></span>
+    </td>
+    </tr>
+    <tr><td>
+  <span style="font-size:65%">Or use scroll wheel and dragging on waterfall.</span>
+    </td></tr>
+    <tr><td>
+    Speed:
+    <select id="wfspeed" onchange="waterfallspeed(this.value)">
+      <option value="4">slow</option>
+      <option value="2">medium</option>
+      <option value="1">fast</option>
+    </select>
+    <br>
+    Size:
+    <select id="wfsize" onchange="waterfallheight(this.value)">
+      <option value="50">small</option>
+      <option selected value="100">medium</option>
+      <option value="200">large</option>
+    </select>
+    <br>
+    View:
+    <select id="wfmode" onchange="waterfallmode(this.value)">
+      <option value="0">spectrum</option>
+      <option selected value="1">waterfall</option>
+      <option value="2">weak sigs</option>
+      <option value="3">strong sigs</option>
+    </select>
+    </td></tr>
+    <tr><td>
+<hr>
+<script type="text/javascript"> if (dxinfoavailable) document.write('<input type="checkbox" name="hidedx" value="" onclick="sethidedx(this.checked)">Hide labels'); </script>
+    </td></tr>
+  </table>
+<hr>
+
+<form name="Tick">
+    UTC time <input type="text" style="font-size:85%; color:#00000; //font-weight:bold" size="5" name="Clock">
+</form>
+<script type="text/javascript">
+function show(){
+    var Digital=new Date()
+    var hours=Digital.getUTCHours()
+    var minutes=Digital.getUTCMinutes()
+    var seconds=Digital.getUTCSeconds()
+    if (hours>=24){
+        hours="0"
+        //this makes the first hour of the day display as "00" UTC (the 2nd "0" is added below).
+    }
+    // Add leading zeros when needed:
+    if (hours<=9)
+        hours="0"+hours
+    if (minutes<=9)
+        minutes="0"+minutes
+    if (seconds<=9)
+        seconds="0"+seconds
+
+    document.Tick.Clock.value=hours+":"+minutes+":"+seconds+" "
+    setTimeout("show()",1000)
+}
+    show()
+</script>
+
+<span class="hideblind"> 
+  <span style="font-size:65%">based on your device time</span>
+</span>
+</div>
+</div>
+</div>
+
+<div class="ctl">
+<img src="smeter_up.png" alt="[scale]">  
+   <div class="hideblind">
+    <div style="width:250px;background-color:black;">
+    <div id="smeterpeak" style="width:100px;height:8px;background-color:#ff8000;position:absolute;">
+      <div style="position:absolute;width:0px;height:0px;"></div>
+    </div>
+    <div id="smeterbar" style="width:100px;height:8px;background-color:#00ff00;position:absolute;">
+      <div style="position:absolute;width:0px;height:0px;"></div>
+    </div>
+    <img src="smeter_dw.png" alt="[scale]">
+    <br>
+    </div>
+  </div>
+  <span style="font-size:80%">Signal:</span>
+  <span style="font-size:80%; color:yellow" id="numericalsmeter">?</span><span style="font-size:80%; color:yellow">dB</span>
+  <span style="font-size:80%">Peak:</span>
+  <span style="font-size:80%; color:yellow;" id="numericalsmeterpeak">?</span><span style="font-size:80%; color:yellow">dB</span>&nbsp&nbsp
+  <hr>
+  <span id="volumecontrol" style="white-space:nowrap; width:50%">
+    <b>Volume:</b>
+    <input type="range" min="-20" max="10" id="volumecontrol2" name="volume" value="0" step="1"
+    oninput="soundapplet.setvolume(Math.pow(10,this.value/10.)); volumedb(this.value)"
+    onchange="soundapplet.setvolume(Math.pow(10,this.value/10.)); volumedb(this.value);">
+  </span>
+  <span id="volumedb"> 0dB </span>
+  <br>
+  <br>
+  <input id="mutecheckbox" title="disable sound" type="checkbox" value="" onclick="setmute(this.checked)">mute
+  <input id="squelchcheckbox" title="block noise if no signal" type="checkbox" value="" onclick="setsquelch(this.checked)">squelch
+  <input id="autonotchcheckbox" title="automatically filter out interfering carrier" type="checkbox" value="" onclick="setautonotch(this.checked)">notch
+  <input id="autonotch2checkbox" title="automatically filter out interfering carrier (deep)" type="checkbox" value="" onclick="setautonotch2(this.checked)">notch2
+
+<br>
+<br>
+  <span id="rightleft" title="send audio to left, right or both channels; may be useful to compare audiostreams from different sources">
+      <b>Audio out:</b>
+      <input type="radio" id="au-out-left" name="au-out" value="left" onchange="if (soundapplet) soundapplet.setstereo(0)">left
+      <input type="radio" id="au-out-both" name="au-out" value="mono" checked onchange="if (soundapplet) soundapplet.setstereo(-1)">both
+      <input type="radio" id="au-out-right" name="au-out" value="right" onchange="if (soundapplet) soundapplet.setstereo(1)">rigth
+  </span>
+     <hr>
+  <b>DSP:</b>&nbsp; &nbsp;
+  <select id="nrcheckbox" title="Select level of Noise Reduction from this box" onchange="setnoise(this.value)">
+     <option selected value=0>off</option>
+      <option value=1>low</option> 
+     <option value=2>medium</option>
+    <option value=3>high</option>
+     <option value=4>strong</option>
+  </select>
+  <input id="hiboostcheckbox" title="6dB high frequency boost with knee centered at 1500 Hz - Use with DSP noise reduction and/or to improve intelligibility of speech" type="checkbox" value="" onclick="sethboost(this.checked)"><b>high-boost</b>
+  
+  <div id="record_span" style="display:inline;">
+    <hr>
+    <b>Audio recording: </b>
+    <button id="recbutton" onclick="record_click(); return false">start</button>
+    <span id="reccontrol"></span>
+    <br>
+    <div id="recwarning" style="width:300px; display:none; font-size:0; color:red">Your browser does not seem to support downloading the recording; please try a recent version of Firefox, Chrome or Opera.</div>
+  </div>
+  <hr>
+    <b>Signal strength plot:</b>
+    <select id="sgraphchoice">
+      <option value=0>none</option>
+      <option value=1>fast</option>
+      <option value=10>slow</option>
+    </select>
+  <div>
+    <canvas id="sgraph" style="width:100%; display:none;"></canvas>
+  </div>
+</div>
+
+<div class="ctl">
+  <b>Logbook:</b>
+  <form name="logform" action="#">
+  Call of station that you hear: <input type="text" size=12 name="call" onclick="">
+  <input type="button" title="Lookup current callsign in the qrz.com" value="qrz.com" onclick="window.open('https://www.qrz.com/db/'+encodeURIComponent(document.logform.call.value),'')">
+  <br>
+  Comments, if any: <input type="text" size=30 name="comment" onclick="">
+  <input type="button" value="submit" onclick="return sendlog()">
+  </form>
+  <span style="font-size:80%">
+    Note: time, frequency, your name/call, and DXCC information are added automatically.
+    <br>
+    View the <a href="~~logbook?nr=20" target="_blank"><span style="color: #99CCFF;">last 20 lines of the logbook</span></a>,
+    or the <a href="logbook.txt" target="_blank"><span style="color: #99CCFF;">entire logbook</span></a>.
+  </span>
+</div>
+
+
+<br style="clear:both">
+<hr>
+
+
+<form name="form1" action="#">
+This WebSDR is currently being used by <span id=numusers>?</span> user(s):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input id="compactviewcheckbox" type="checkbox" name="compactview" value="" onclick="setcompactview(this.checked)">compact view
+<br>
+<div id=users></div>
+</form>
+<hr>
+
+<div style="font-size:80%">
+Statistics:
+<div id="stats"></div>
+</div>
+<hr>
+
+<script>
+  window.sessionTime();
+</script>
+
+<a href="https://www.debian.org/" target="_blank"> <img src="debian-bouton.png" alt="debian" width=139 height=56 align=right> </a>
+<div id="soundappletdiv" style="color:BLACK" ></div>
+
+<hr>
+
+<center> <a href="https://info.flagcounter.com/zioC" target="_blank"><img src="https://s01.flagcounter.com/count2/zioC/bg_112A39/txt_AAD8E6/border_CCCCCC/columns_8/maxflags_96/viewers_3/labels_1/pageviews_1/flags_1/percent_0/" alt="Flag Counter" border="0"></a>
+
+

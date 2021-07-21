@@ -1,0 +1,32 @@
+
+#Repetidores
+145350fm Rpt Nova Friburgo
+146930fm Rpt Volta Redonda
+146910fm Rpt Valença
+145390fm Rpt Petropolis
+146890fm Rpt Mendanha RJ / Campos do Jordao SP
+147300fm Rpt Itatiaia
+145470fm Rpt Barra do Pirai
+145490fm Rpt Petropolis
+#145230fm Rpt Paraty
+147150fm Rpt Piquete SP
+
+#Satélites
+#145960fm Sat Fox-1b
+#145920fm Sat Fox-1c
+145880fm Sat Fox-1d
+145800fm Iss
+#145838usb Sat Jo-97
+
+#Echolink
+#145150fm Echolink Cruzeiro-SP
+#147550fm Echolink Barra do Piraí
+#145170fm Echolink Itatiaia
+
+#Marcações de banda
+#7080lsb 40M
+145000fm VHF1
+147000fm VHF2
+7080lsb 40M
+27285am 11M
+28850usb 10M

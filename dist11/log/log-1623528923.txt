@@ -1,0 +1,195 @@
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=0
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET / HTTP/1.1
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/bandinfo.js HTTP/1.1
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=1
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /websdr-base.js HTTP/1.1
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=2
+20210612-204414, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=3
+20210612-204414, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /debian-bouton.png HTTP/1.1
+20210612-204414, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /HamHomer.png HTTP/1.1
+20210612-204414, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /edgeupper.png HTTP/1.1
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /smeter2.png HTTP/1.1
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=4
+20210612-204414, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /edgelower.png HTTP/1.1
+20210612-204414, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204414, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=5
+20210612-204414, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /carrier.png HTTP/1.1
+20210612-204414, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204414, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /favicon.ico HTTP/1.1
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: sending 404 for file not found: pub2/favicon.ico
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: Disconnect on socket ((nil))
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: closing http connection hp=1
+20210612-204415, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /websdr-waterfall.js HTTP/1.1
+20210612-204415, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204415, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~fetchdx?min=14004&max=14196 HTTP/1.1
+20210612-204415, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/1623194124-b4z0i0.png HTTP/1.1
+20210612-204415, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204415, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /scaleblack.png HTTP/1.1
+20210612-204415, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204415, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~fetchdx?min=145976&max=148024 HTTP/1.1
+20210612-204415, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /websdr-sound.js HTTP/1.1
+20210612-204415, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204415, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204415, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=1
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=6
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~waterstream0?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: changing to WebSocket
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: assigned waterstream 0
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: new hp=7
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~stream?v=11 HTTP/1.1
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: changing to WebSocket
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: assigned stream 0
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?slow=4
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210612-204415, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?band=4&zoom=0&start=0
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?f=146930&band=4&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?f=146930&band=4&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?mute=0
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?squelch=0
+20210612-204415, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?autonotch=0
+20210612-204416, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=2 HTTP/1.1
+20210612-204416, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/1623194124-b0z0i0.png HTTP/1.1
+20210612-204416, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204416, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204416, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/1623194124-b1z0i0.png HTTP/1.1
+20210612-204416, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204416, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204416, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/1623194124-b2z0i0.png HTTP/1.1
+20210612-204416, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204416, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204416, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /tmp/1623194124-b3z0i0.png HTTP/1.1
+20210612-204416, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210612-204416, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: Referer: http://websdr.dynv6.net:8901/
+20210612-204417, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1864 HTTP/1.1
+20210612-204418, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1864 HTTP/1.1
+20210612-204419, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1864 HTTP/1.1
+20210612-204420, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1864 HTTP/1.1
+20210612-204421, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?band=3&zoom=0&start=0
+20210612-204421, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?f=145010&band=3&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210612-204421, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?slow=4
+20210612-204421, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~fetchdx?min=143976&max=146024 HTTP/1.1
+20210612-204421, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: Disconnect on socket ((nil))
+20210612-204421, fd=13 -2804:213c:21:77:1913:acd2:4ed5:6105-: closing http connection hp=1
+20210612-204421, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1864 HTTP/1.1
+20210612-204422, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1866 HTTP/1.1
+20210612-204423, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?band=4&zoom=0&start=0
+20210612-204423, fd=19 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~param?f=146930&band=4&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210612-204423, fd=18 -2804:213c:21:77:1913:acd2:4ed5:6105-: websocket request GET /~~waterparam?slow=4
+20210612-204423, fd=12 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~fetchdx?min=145976&max=148024 HTTP/1.1
+20210612-204423, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1866 HTTP/1.1
+20210612-204425, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1868 HTTP/1.1
+20210612-204426, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204427, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204428, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204429, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204430, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204431, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204432, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204433, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204434, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1870 HTTP/1.1
+20210612-204435, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204436, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204437, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204438, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204439, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204440, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204441, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204442, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204443, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204444, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1872 HTTP/1.1
+20210612-204445, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204446, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204447, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204448, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204449, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204450, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204451, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204452, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204453, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204454, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1874 HTTP/1.1
+20210612-204455, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204456, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204457, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204458, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204459, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204500, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204501, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204502, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204503, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204504, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1876 HTTP/1.1
+20210612-204505, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204506, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204507, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204508, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204510, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204511, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204512, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204513, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204514, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1878 HTTP/1.1
+20210612-204515, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204516, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204517, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204518, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204519, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204520, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204521, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204522, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204523, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204524, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1880 HTTP/1.1
+20210612-204525, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204526, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204527, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204528, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204529, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204530, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204531, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204532, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204533, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204534, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1882 HTTP/1.1
+20210612-204535, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204536, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204537, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204538, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204539, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204540, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204541, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204542, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204543, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204544, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1884 HTTP/1.1
+20210612-204545, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204546, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204547, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204548, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204549, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204550, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204551, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204553, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204553, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: http connection inactive for 97 seconds
+20210612-204553, fd=14 -2804:213c:21:77:1913:acd2:4ed5:6105-: closing http connection hp=2
+20210612-204553, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: http connection inactive for 97 seconds
+20210612-204553, fd=16 -2804:213c:21:77:1913:acd2:4ed5:6105-: closing http connection hp=4
+20210612-204553, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: http connection inactive for 97 seconds
+20210612-204553, fd=17 -2804:213c:21:77:1913:acd2:4ed5:6105-: closing http connection hp=5
+20210612-204554, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1886 HTTP/1.1
+20210612-204555, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1888 HTTP/1.1
+20210612-204556, fd=15 -2804:213c:21:77:1913:acd2:4ed5:6105-: http request GET /~~othersjj?chseq=1888 HTTP/1.1

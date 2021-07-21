@@ -1,0 +1,614 @@
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=0
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /index_eng.html HTTP/1.1
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=1
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=2
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/bandinfo.js HTTP/1.1
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /css/fontawesome-all.css HTTP/1.1
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: sending 404 for file not found: pub2/css/fontawesome-all.css
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=3
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /websdr-base_eng.js HTTP/1.1
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /css/fontawesome-all.css HTTP/1.1
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: sending 404 for file not found: pub2/css/fontawesome-all.css
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /HamHomer.png HTTP/1.1
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /edgelower.png HTTP/1.1
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /edgeupper.png HTTP/1.1
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /carrier.png HTTP/1.1
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=4
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /smeter_dw.png HTTP/1.1
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=5
+20210626-193732, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /debian-bouton.png HTTP/1.1
+20210626-193732, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193732, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /smeter_up.png HTTP/1.1
+20210626-193732, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193732, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193733, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /websdr-waterfall.js HTTP/1.1
+20210626-193733, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193733, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193733, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=3620&max=3812 HTTP/1.1
+20210626-193733, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/1624736247-b4z0i0.png HTTP/1.1
+20210626-193733, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193733, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193733, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /scaleblack.png HTTP/1.1
+20210626-193733, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193733, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193733, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=145976&max=148024 HTTP/1.1
+20210626-193733, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /websdr-sound.js HTTP/1.1
+20210626-193733, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193733, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=6
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~waterstream0?format=9&width=1024&zoom=0&start=0 HTTP/1.1
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: changing to WebSocket
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: assigned waterstream 0
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: new hp=7
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~stream?v=11 HTTP/1.1
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: changing to WebSocket
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: assigned stream 0
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210626-193733, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=4&zoom=0&start=0
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=146930&band=4&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=146930&band=4&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?mute=0
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?squelch=0
+20210626-193733, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?autonotch=0
+20210626-193734, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=2 HTTP/1.1
+20210626-193734, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/1624736247-b0z0i0.png HTTP/1.1
+20210626-193734, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193734, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193734, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/1624736247-b1z0i0.png HTTP/1.1
+20210626-193734, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193734, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193734, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/1624736247-b2z0i0.png HTTP/1.1
+20210626-193734, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193734, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193734, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /tmp/1624736247-b3z0i0.png HTTP/1.1
+20210626-193734, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193734, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193735, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210626-193736, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210626-193737, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=4 HTTP/1.1
+20210626-193738, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193739, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193740, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193741, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193742, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193743, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=2&zoom=0&start=0
+20210626-193743, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=14185&band=2&lo=-6.25&hi=6.25&mode=4&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193743, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193743, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=13663&max=14687 HTTP/1.1
+20210626-193743, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=6 HTTP/1.1
+20210626-193744, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210626-193745, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210626-193746, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210626-193747, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=14185&band=2&lo=0.3&hi=3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193747, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=8 HTTP/1.1
+20210626-193748, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=1&zoom=0&start=0
+20210626-193748, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7090.5&band=1&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193748, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193748, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210626-193748, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=10 HTTP/1.1
+20210626-193749, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210626-193751, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210626-193751, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7144.4&band=1&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193752, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=12 HTTP/1.1
+20210626-193752, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /edgelowerbb.png HTTP/1.1
+20210626-193752, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193752, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193753, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210626-193754, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210626-193754, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193754, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /edgeupperbb.png HTTP/1.1
+20210626-193754, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+20210626-193754, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: Referer: http://websdr.dynv6.net:8901/index_eng.html
+20210626-193755, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=14 HTTP/1.1
+20210626-193755, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193755, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193756, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=16 HTTP/1.1
+20210626-193757, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=18 HTTP/1.1
+20210626-193758, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210626-193759, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210626-193759, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210626-193759, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3726&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193759, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193759, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=3620&max=3812 HTTP/1.1
+20210626-193800, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=20 HTTP/1.1
+20210626-193801, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210626-193802, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210626-193803, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210626-193803, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3726&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3724.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3720.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3714.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3699.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=22 HTTP/1.1
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3684.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3674.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3669.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3667.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3667.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3667.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3666.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3666.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3665.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3665.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3664.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3664.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3664.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3664.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3664.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3663.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3663.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193804, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3663.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3663.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3663&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3662.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3662.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3662.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=24 HTTP/1.1
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3662.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3661.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3661.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3661.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3661.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3660&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3659.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3659.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3659.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3659.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3658.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3658.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193805, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3657.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3657.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3657.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3657&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3656.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3656.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3656.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3656.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3656.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3655.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=26 HTTP/1.1
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3654.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3654.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3654.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3654.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3654&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3652.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3652.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3652.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3651&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193806, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3650.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193807, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3650.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193807, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3650.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193807, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=28 HTTP/1.1
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3649.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3648.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=30 HTTP/1.1
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3647.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3645.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3644.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3644.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3643.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3643.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3642.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3641.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3640.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3640.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3640.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193808, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3639.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193809, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=32 HTTP/1.1
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3640.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3642.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3645.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3649.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3653.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3658.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3662.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3667.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3671.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3676.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3680.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3687&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3694.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3701.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3707.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3710.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3713.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3714.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3716.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3718.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3721.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3724.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3726.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3728.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3730.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=34 HTTP/1.1
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3731.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3733.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3735.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3737.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3740.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3743.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3746.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3747.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3748.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3749.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3751.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3753.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3754.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3756.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3758.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3758.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3758.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3759&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3759.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3759.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3760.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3760.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3761.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3762.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3763.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3764.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3764.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193810, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193811, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=36 HTTP/1.1
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3772.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3773.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3774.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3777.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3777.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3775.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3774.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3773.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3772.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3772.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=38 HTTP/1.1
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3771.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193812, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193813, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=40 HTTP/1.1
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3765.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3766.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3767.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=42 HTTP/1.1
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.5625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3768.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3769.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3770.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3771.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3771.9375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3772.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3773.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3773.4375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3774.375&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3774.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3775.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3775.5&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.25&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193814, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3776.8125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3777.1875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3777.75&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.3125&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.6875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3778.875&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3779.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193815, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=44 HTTP/1.1
+20210626-193815, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3779.0625&band=0&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193816, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=46 HTTP/1.1
+20210626-193817, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=1&zoom=0&start=0
+20210626-193817, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.11249999999999999&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193817, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193817, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210626-193817, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=48 HTTP/1.1
+20210626-193818, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210626-193819, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210626-193820, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210626-193820, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=2&zoom=0&start=0
+20210626-193820, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193820, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=14185&band=2&lo=0.11249999999999999&hi=3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193820, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=13663&max=14687 HTTP/1.1
+20210626-193821, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=50 HTTP/1.1
+20210626-193822, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210626-193823, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210626-193824, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=14185&band=2&lo=0.3&hi=3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193824, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=52 HTTP/1.1
+20210626-193826, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210626-193827, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=54 HTTP/1.1
+20210626-193828, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193829, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193830, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193831, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193832, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193833, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193834, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193835, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193836, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193837, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=56 HTTP/1.1
+20210626-193838, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193839, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193840, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193841, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193842, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193843, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193844, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193845, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193846, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193847, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=58 HTTP/1.1
+20210626-193848, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210626-193848, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=1&zoom=0&start=0
+20210626-193848, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193848, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193848, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210626-193849, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=60 HTTP/1.1
+20210626-193850, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193851, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193852, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193853, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193854, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193855, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193856, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193857, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=62 HTTP/1.1
+20210626-193858, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193859, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193900, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193901, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193902, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193903, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193904, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193905, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210626-193905, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3779.0625&band=0&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193905, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193905, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=3620&max=3812 HTTP/1.1
+20210626-193905, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=64 HTTP/1.1
+20210626-193906, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=1&zoom=0&start=0
+20210626-193906, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=7023.4625&band=1&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193906, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193906, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=6984.5&max=7176.5 HTTP/1.1
+20210626-193906, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=66 HTTP/1.1
+20210626-193906, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http connection inactive for 93 seconds
+20210626-193906, fd=7 -2804:213c:21:77:a1ce:bdea:f79:2db7-: closing http connection hp=1
+20210626-193906, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http connection inactive for 92 seconds
+20210626-193906, fd=8 -2804:213c:21:77:a1ce:bdea:f79:2db7-: closing http connection hp=2
+20210626-193906, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http connection inactive for 92 seconds
+20210626-193906, fd=13 -2804:213c:21:77:a1ce:bdea:f79:2db7-: closing http connection hp=4
+20210626-193906, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http connection inactive for 93 seconds
+20210626-193906, fd=14 -2804:213c:21:77:a1ce:bdea:f79:2db7-: closing http connection hp=5
+20210626-193907, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=68 HTTP/1.1
+20210626-193908, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193909, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193910, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193911, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193912, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193913, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193914, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193915, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193916, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193917, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=70 HTTP/1.1
+20210626-193918, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193919, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193920, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193921, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193922, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193923, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193924, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193925, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193926, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193926, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http connection inactive for 98 seconds
+20210626-193926, fd=4 -2804:213c:21:77:a1ce:bdea:f79:2db7-: closing http connection hp=0
+20210626-193927, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=72 HTTP/1.1
+20210626-193929, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193930, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193931, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193932, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193933, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193933, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=0&zoom=0&start=0
+20210626-193933, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=3779.0625&band=0&lo=-3&hi=-0.3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193933, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193933, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=3620&max=3812 HTTP/1.1
+20210626-193934, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=74 HTTP/1.1
+20210626-193935, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=76 HTTP/1.1
+20210626-193936, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=76 HTTP/1.1
+20210626-193937, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=76 HTTP/1.1
+20210626-193938, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=78 HTTP/1.1
+20210626-193939, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=78 HTTP/1.1
+20210626-193939, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?band=2&zoom=0&start=0
+20210626-193939, fd=16 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~param?f=14185&band=2&lo=0.3&hi=3&mode=0&name=BR%2CRJ%2CBarra%20Mansa
+20210626-193939, fd=15 -2804:213c:21:77:a1ce:bdea:f79:2db7-: websocket request GET /~~waterparam?slow=4
+20210626-193939, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~fetchdx?min=13663&max=14687 HTTP/1.1
+20210626-193940, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=78 HTTP/1.1
+20210626-193941, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193942, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193943, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193944, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193945, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193946, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193947, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=80 HTTP/1.1
+20210626-193948, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193949, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193950, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193951, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193952, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193953, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193954, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193955, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193956, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193957, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=82 HTTP/1.1
+20210626-193958, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-193959, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194000, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194001, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194002, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194003, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194004, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194005, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194006, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194007, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=84 HTTP/1.1
+20210626-194008, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194009, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194010, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194011, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194012, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194013, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194014, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194015, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194016, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194017, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=86 HTTP/1.1
+20210626-194018, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194019, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194020, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194021, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194022, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194023, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194024, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194025, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194026, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194027, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=88 HTTP/1.1
+20210626-194028, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194029, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194030, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194031, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194032, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194033, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194034, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194035, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194036, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194037, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=90 HTTP/1.1
+20210626-194039, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194040, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194041, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194042, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194043, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194044, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194045, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194046, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194047, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=92 HTTP/1.1
+20210626-194048, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194049, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194050, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194051, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194052, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194053, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194054, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194055, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194056, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194057, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=94 HTTP/1.1
+20210626-194058, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194059, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194100, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194101, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194102, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194103, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194104, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194105, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194106, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194107, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=96 HTTP/1.1
+20210626-194108, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194109, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194110, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194111, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194112, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194113, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194114, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194115, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194116, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194117, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=98 HTTP/1.1
+20210626-194118, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194119, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194120, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194121, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194122, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194123, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194124, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194125, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194126, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194127, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=100 HTTP/1.1
+20210626-194128, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=102 HTTP/1.1
+20210626-194129, fd=12 -2804:213c:21:77:a1ce:bdea:f79:2db7-: http request GET /~~othersjj?chseq=102 HTTP/1.1
