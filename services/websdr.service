@@ -1,0 +1,17 @@
+[Unit]
+Description=Websdr server
+After=rtl_tcp0.service rtl_tcp1.service rtl_tcp2.service
+Wants=rtl_tcp0.service rtl_tcp1.service rtl_tcp2.service
+
+[Service]
+ExecStart=/home/websdr/websdr/dist11/websdr64_start.sh
+WorkingDirectory=/home/websdr/websdr/dist11
+ExecStartPost=/home/websdr/websdr/dist11/rtl_stop.sh
+Restart=always
+RestartSec=3
+User=websdr
+SyslogIdentifier=websdr
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,15 @@
+[Unit]
+Description=rtl_tcp Server
+After=network.target
+
+[Service]
+ExecStart=/usr/local/bin/rtl_tcp -d 2 -g 49.6 -p 1236
+WorkingDirectory=/home/websdr
+Restart=always
+RestartSec=3
+User=websdr
+SyslogIdentifier=rtl_tcp2
+
+[Install]
+WantedBy=multi-user.target
+
